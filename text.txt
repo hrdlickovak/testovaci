@@ -1,1 +1,3 @@
 text v textovém dokumentu
+
+libovolná úprava textového dokumentu
